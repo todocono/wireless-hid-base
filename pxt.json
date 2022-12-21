@@ -1,5 +1,5 @@
 {
-    "name": "wireless-HID-base",
+    "name": "wireless-HID-ring",
     "description": "",
     "dependencies": {
         "core": "*",
